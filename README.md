@@ -20,6 +20,24 @@ From there, it's a quick walk back to UV1700 through the neighborhood.
 
 ## 2. Taking the #3, #31, or #32 from the CSU Transit Center
 
-If it's nice out and you would enjoy the walk, you could walk from St. Joesph to the CSU Transit Center and take any of the buses listed above to UV1700. These run much more frequently than the #10. The walk is about 20 minutes down meldrum.
+If it's nice out and you would enjoy the walk, you could walk from St. Joesph to the CSU Transit Center and take any of the buses listed above to UV1700. These run much more frequently than the #10. The walk is about 20 minutes down meldrum. 
 
 <img width="414" alt="Screen Shot 2022-02-09 at 7 13 58 AM" src="https://user-images.githubusercontent.com/47120117/153218655-4abcfe44-0e9b-4311-b516-7c1248188794.png">
+
+**Departures from CSU Transit Center**
+
+On a weekday these routes are very frequent, so you probably don't have to prepare
+
+  | #3 | #31 | #32 |
+ | ----------- | ----------- | ----------- |
+  | X:08 | X:00 | X:15 |
+  | X:23 | X:10 | X:45 |
+  | X:38 | X:20 | - |
+  | X:53 | X:30 | - |
+  | - | X:40 | - |
+  | - | X:50 | - |
+  | Last Bus 5:53 pm | Last Bus 6:10 pm | Last Bus 10:15 pm |
+
+The routes are slightly different (see below), but for each one you would get off at "Constitution & Elizabeth" and walk a few minutes back to UV1700.
+
+<img width="801" alt="Screen Shot 2022-02-09 at 8 16 50 AM" src="https://user-images.githubusercontent.com/47120117/153230816-539cc1fb-0f6b-4d89-82ac-292472e7275a.png">
