@@ -3,7 +3,7 @@
 #PBS -N ens_analysis               
 
 ### ACCOUNT NUMBER
-#PBS -A UHAR0008                    
+#PBS -A PROJECT                    
 
 ### SPECIFY COMPUTING RESOURCES 
 ### NOTE: Only request a small amount here because
